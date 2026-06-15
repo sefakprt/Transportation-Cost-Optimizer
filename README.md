@@ -1,4 +1,3 @@
-# Transportation-Cost-OptimizerREADME.md
 Transportation Optimization Model
 
 This repository contains a GAMS-based linear programming model developed for the IE 202 Mini Project in the Fall 2025 semester. The primary objective of this model is to minimize total transportation costs while distributing goods from 6 production sites (sources) to 10 distinct markets.
